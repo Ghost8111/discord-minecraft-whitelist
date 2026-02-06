@@ -1,0 +1,5 @@
+name: DiscordWhitelist
+version: 1.0
+main: me.notaghost.whitelist.DiscordWhitelist
+api-version: 1.20
+
